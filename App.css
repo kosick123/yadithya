@@ -1,0 +1,4 @@
+.app{min-height:100vh;display:flex;flex-direction:column;}
+main.container{flex:1;padding-bottom:20px;}
+h1{color:var(--accent);margin-bottom:12px;}
+.card{background:var(--card);padding:18px;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.6);}
